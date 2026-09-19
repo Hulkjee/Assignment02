@@ -1,4 +1,11 @@
+/*
+  Name: Abdullah Khan
+  Date: 09.17.2026
+  CSC 372-01
 
+  This stylesheet is used for the Campus Event Guide.
+  It styles the layout, event cards, navigation, and responsive pages.
+*/
 * {
   box-sizing: border-box;
 }
