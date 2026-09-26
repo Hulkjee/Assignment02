@@ -335,3 +335,8 @@ footer a:hover {
     flex-direction: column;
   }
 }
+
+.saved-event {
+    border: 3px solid black;
+    background-color: lightgray;
+}
